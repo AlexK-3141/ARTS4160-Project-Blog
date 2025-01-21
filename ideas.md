@@ -4,6 +4,6 @@ Things I'm interested in:
 - learning to make cool sounds to use in said song
 
 Research papers I want to check out:
-- https://www.nime.org/proc/rvogl2017/index.html
-- https://quod.lib.umich.edu/i/icmc/bbp2372.2011.047/1/--new-forms-of-hybrid-musical-discourse-an-exploration?rgn=full+text;view=image;q1=edm
-- https://quod.lib.umich.edu/i/icmc/bbp2372.1988.016/1/--music-learning-compositional-thinking?rgn=full+text;view=image;q1=dance
+- "An Intelligent Drum Machine for Electronic Dance Music Production and Performance" (https://www.nime.org/proc/rvogl2017/index.html)
+- "New forms of hybrid musical discourse: an exploration of stylistic and procedural crossfertilisation between contemporary art music and electronic dance music" (https://quod.lib.umich.edu/i/icmc/bbp2372.2011.047/1/--new-forms-of-hybrid-musical-discourse-an-exploration?rgn=full+text;view=image;q1=edm)
+- "Music Learning - Compositional Thinking" (https://quod.lib.umich.edu/i/icmc/bbp2372.1988.016/1/--music-learning-compositional-thinking?rgn=full+text;view=image;q1=dance)
