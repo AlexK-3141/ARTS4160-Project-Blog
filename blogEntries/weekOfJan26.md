@@ -1,7 +1,7 @@
 Popular EDM plugins:
 - Serum
 - Xfer OTT
-    - "Multiband upwards/downwards compressor"
+    - "Multiband upwards/downwards compressor" plugin based on the OTT compressor preset in Ableton
         - Multiband compression: splits the frequency spectrum into different bands (ranges from a lower to a higher frequency), each band can be compressed independently
             - OTT splits frequency spectrum into 3 bands
         - Upwards compression: increases the volume of anything under the threshold
