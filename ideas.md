@@ -1,7 +1,8 @@
 Things I'm interested in:
-- composing an EDM song in reaper
-- using Serum or an alternative if it isn't free
-- learning to make cool sounds to use in said song
+- researching what wavetable synthesis is
+- making my own plugins
+- using my own plugin(s) to compose an EDM song in reaper with house, trap, dubstep, drum and bass, and/or hardstyle drops
+- learning a bit about composition as I make progress with the project
 
 Research papers I want to check out:
 - "An Intelligent Drum Machine for Electronic Dance Music Production and Performance" (https://www.nime.org/proc/rvogl2017/index.html)
