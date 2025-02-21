@@ -1,0 +1,31 @@
+﻿  PluginProcessor.cpp
+  PluginEditor.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_ARA.cpp
+  include_juce_audio_processors_ara.cpp
+  include_juce_audio_processors_lv2_libs.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core_CompilationTime.cpp
+  include_juce_data_structures.cpp
+  include_juce_events.cpp
+  include_juce_graphics_Harfbuzz.cpp
+  include_juce_gui_extra.cpp
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(80,53): warning C4100: 'index': unreferenced formal parameter
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(84,64): warning C4100: 'index': unreferenced formal parameter
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(89,80): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(89,53): warning C4100: 'index': unreferenced formal parameter
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(94,68): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(94,52): warning C4100: 'sampleRate': unreferenced formal parameter
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(132,96): warning C4100: 'midiMessages': unreferenced formal parameter
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(155,15): warning C4189: 'channelData': local variable is initialized but not referenced
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(173,70): warning C4100: 'destData': unreferenced formal parameter
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(180,73): warning C4100: 'sizeInBytes': unreferenced formal parameter
+C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Source\PluginProcessor.cpp(180,63): warning C4100: 'data': unreferenced formal parameter
+  include_juce_audio_processors.cpp
+  include_juce_core.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_basics.cpp
+  include_juce_graphics_Sheenbidi.c
+  OneSound_SharedCode.vcxproj -> C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Builds\VisualStudio2022\x64\Debug\Shared Code\OneSound.lib
