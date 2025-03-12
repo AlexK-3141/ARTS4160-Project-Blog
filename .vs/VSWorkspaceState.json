@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\blogEntries"
+    "\\OneSound",
+    "\\OneSound\\Source"
   ],
-  "SelectedNode": "\\blogEntries\\weekOfFeb16.md",
+  "SelectedNode": "\\OneSound\\Source\\PluginProcessor.h",
   "PreviewInSolutionExplorer": false
 }

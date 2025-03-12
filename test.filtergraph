@@ -61,11 +61,10 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.34875" y="0.4133064516129032" useARA="0" uiLastX_Normal="158"
-          uiLastY_Normal="284" uiopen_Normal="0">
-    <PLUGIN name="OneSound" format="VST3" category="Fx" manufacturer="yourcompany"
+  <FILTER uid="5" x="0.49875" y="0.5725806451612904" useARA="0">
+    <PLUGIN name="OneSound" format="VST3" category="Fx" manufacturer="AlexK"
             version="1.0.0" file="C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Builds\VisualStudio2022\x64\Debug\VST3\OneSound.vst3\Contents\x86_64-win\OneSound.vst3"
-            uniqueId="268e31b" isInstrument="0" fileTime="195291ee766" infoUpdateTime="1952923eba2"
+            uniqueId="268e31b" isInstrument="0" fileTime="1954b2571c3" infoUpdateTime="1954b259d75"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e959edd9"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
@@ -78,4 +77,6 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
+  <CONNECTION srcFilter="5" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="5" srcChannel="1" dstFilter="3" dstChannel="1"/>
 </FILTERGRAPH>

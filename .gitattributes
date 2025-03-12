@@ -47,3 +47,8 @@ OneSound/Builds/VisualStudio2022/.vs/OneSound/v17/Browse.VC.db filter=lfs diff=l
 /OneSound/Builds/VisualStudio2022/x64/Debug/VST3/OneSound.vst3/Contents/x86_64-win/OneSound.vst3 filter=lfs diff=lfs merge=lfs -text
 /OneSound/Builds/VisualStudio2022/x64/Debug/VST3/OneSound_VST3.tlog/CL.read.1.tlog filter=lfs diff=lfs merge=lfs -text
 /OneSound/Builds/VisualStudio2022/x64/Debug/VST3/include_juce_audio_plugin_client_VST3.obj filter=lfs diff=lfs merge=lfs -text
+/OneSound/Builds/VisualStudio2022/.vs/OneSound/FileContentIndex/0ca51510-c7c3-4fbe-b8dd-221337afa562.vsidx filter=lfs diff=lfs merge=lfs -text
+/OneSound/Builds/VisualStudio2022/.vs/OneSound/FileContentIndex/29be1466-18ab-4c02-be04-e2ec5b7240ee.vsidx filter=lfs diff=lfs merge=lfs -text
+/OneSound/Builds/VisualStudio2022/.vs/OneSound/FileContentIndex/548180f7-de0e-44fa-be99-67822c5030be.vsidx filter=lfs diff=lfs merge=lfs -text
+/OneSound/Builds/VisualStudio2022/.vs/OneSound/v17/ipch/AutoPCH/4c00cade3bc05831/PLUGINEDITOR.ipch filter=lfs diff=lfs merge=lfs -text
+/OneSound/Builds/VisualStudio2022/.vs/OneSound/v17/ipch/AutoPCH/bf96b8790ae9011e/PLUGINPROCESSOR.ipch filter=lfs diff=lfs merge=lfs -text

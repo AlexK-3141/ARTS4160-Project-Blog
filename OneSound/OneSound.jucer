@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="u4qFSZ" name="OneSound" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginManufacturer="AlexK"
+              pluginCharacteristicsValue="pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn">
   <MAINGROUP id="vwzbpf" name="OneSound">
     <GROUP id="{B1D9E7E9-DCA7-5ADE-AA41-C2F49CD6E70F}" name="Source">
       <FILE id="N0y5kx" name="PluginProcessor.cpp" compile="1" resource="0"
