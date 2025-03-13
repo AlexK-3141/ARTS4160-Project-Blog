@@ -1,6 +1,0 @@
-﻿  include_juce_audio_plugin_client_VST3.cpp
-     Creating library C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Builds\VisualStudio2022\x64\Debug\VST3\OneSound.lib and object C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Builds\VisualStudio2022\x64\Debug\VST3\OneSound.exp
-  OneSound_VST3.vcxproj -> C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Builds\VisualStudio2022\x64\Debug\VST3\OneSound.dll
-          1 file(s) copied.
-  Deleted file - C:\Users\alexk\OneDrive\Documents\GitHub\ARTS4160-Project-Blog\OneSound\Builds\VisualStudio2022\x64\Debug\VST3\OneSound.vst3\Contents\Resources\moduleinfo.json
-  : Info: Successfully generated a manifest for OneSound
