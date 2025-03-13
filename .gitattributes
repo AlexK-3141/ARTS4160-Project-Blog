@@ -8,6 +8,8 @@ PLUGINPROCESSOR.ipch filter=lfs diff=lfs merge=lfs -text
 OneSound.lib filter=lfs diff=lfs merge=lfs -text
 OneSound.pdb filter=lfs diff=lfs merge=lfs -text
 Browse.VC.db filter=lfs diff=lfs merge=lfs -text
+OneSound/Builds/VisualStudio2022/.vs/OneSound/v17/ipch/AutoPCH/4c00cade3bc05831/PLUGINEDITOR.ipch filter=lfs diff=lfs merge=lfs -text
+OneSound/Builds/VisualStudio2022/.vs/OneSound/v17/ipch/AutoPCH/bf96b8790ae9011e/PLUGINPROCESSOR.ipch filter=lfs diff=lfs merge=lfs -text
 /.vs/slnx.sqlite filter=lfs diff=lfs merge=lfs -text
 /OneSound/Builds/VisualStudio2022/.vs/OneSound/FileContentIndex/16f77f8f-b04f-4d5d-8ec2-a80c59d3ec69.vsidx filter=lfs diff=lfs merge=lfs -text
 /OneSound/Builds/VisualStudio2022/.vs/OneSound/FileContentIndex/331d182e-cb68-4590-9cf1-3208caf95ccd.vsidx filter=lfs diff=lfs merge=lfs -text
