@@ -16,4 +16,11 @@ Xfer OTT info:
 
 Other notes:
 - Compressor vs. filter: compressors reduce dynamic range, which is the difference between the loudest and quietest parts of a sound (measured in decibels), while filters manipulate sounds by boosting and/or attenuating (making softer) certain frequency ranges
-- Threshold - the level at which compression begins (measured in decibels)
+- The most important compressor parameters:
+    - Threshold - the level at which compression begins (measured in decibels) - if the absolute value of the signal's amplitude is above/below this threshold, the compressor will apply negative/positive gain such that the signal stays near or below/above the threshold, depending on if the compressor is applying downwards or upwards compression
+    - Ratio - given ratio x:y, for every x db of signal above the threshold, the output amplitude will be y db of signal above the threshold
+        - If ratio is infinity:1, compressor turns into brick wall limiter - nothing will be above/below the threshold
+    - Attack - how long to wait after the signal exceeds the threshold before applying gain to it (milliseconds)
+    - Release - how long to wait after the signal no longer exceeds the threshold before the compressor stops applying gain to it (milliseconds)
+- How audio processing actually works: samples are organized into blocks a.k.a buffers before being processed
+    - If a buffer isn't processed in time, the buffer will just have silence
