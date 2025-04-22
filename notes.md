@@ -15,7 +15,7 @@ Xfer OTT info:
     - 3 bars (sliders) allowing you to change the threshold of each band
 
 Other notes:
-- Compressor vs. filter: compressors reduce dynamic range, which is the difference between the loudest and quietest parts of a sound (measured in decibels), while filters manipulate sounds by boosting and/or attenuating (making softer) certain frequency ranges
+- Compressor vs. filter: compressors reduce dynamic range, which is the difference between the loudest and quietest parts of a sound (measured in decibels), while (most) filters manipulate sounds by boosting and/or attenuating (making softer) certain frequency ranges
 - The most important compressor parameters:
     - Threshold - the level at which compression begins (measured in decibels) - if the absolute value of the signal's amplitude is above/below this threshold, the compressor will apply negative/positive gain such that the signal stays near or below/above the threshold, depending on if the compressor is applying downwards or upwards compression
     - Ratio - given ratio x:y, for every x db of signal above the threshold, the output amplitude will be y db of signal above the threshold
@@ -24,3 +24,10 @@ Other notes:
     - Release - how long to wait after the signal no longer exceeds the threshold before the compressor stops applying gain to it (milliseconds)
 - How audio processing actually works: samples are organized into blocks a.k.a buffers before being processed
     - If a buffer isn't processed in time, the buffer will just have silence
+- Linkwitz-Riley filters - filters that add zero gain at the crossover frequency
+    - Crossover frequency - frequency where audio signal is divided
+        - Can (sometimes) be used interchangeably with cutoff frequency, which is the frequency where changes start to occur in audio passed through a filter
+- Filters add delay to audio
+- Allpass filter - doesn't boost or attenuate any frequency range of input audio, instead, it delays the signal based on the frequency - it changes the phase of the signal
+    - Phase is where a waveform is in its cycle
+- To split audio into 3 separate bands using Linkwitz-Riley filters, use a lowpass and highpass LR filter to split audio into 2 bands. For one of the bands, use another pair of lowpass and highpass LR filters. For the other band, use an allpass LR filter. This way, the same delay is introduced to each band.
