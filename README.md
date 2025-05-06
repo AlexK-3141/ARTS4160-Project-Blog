@@ -1,2 +1,2 @@
-# ARTS4160-Project-Blog
+# My-JUCE-Plugins-and-ARTS4160-Project-Blog
 I originally created this repository to store the things I worked on for the Music And Technology II (ARTS4160) course I took in the spring of 2025, which was my multiband compressor and blog for tracking my progress. Now, I plan on using this repository for storing the plugins I create with JUCE.
